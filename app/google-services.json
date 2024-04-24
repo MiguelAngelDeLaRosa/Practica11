@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385926070144",
+    "project_id": "appfirebasecrud-21e59",
+    "storage_bucket": "appfirebasecrud-21e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385926070144:android:11bdb764c6e8cde9f14b65",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.practica11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZnuBJDPfyn3LscS0MxWvRCGBv9lgzHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
